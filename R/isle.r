@@ -23,7 +23,7 @@ Sys.setenv("PKG_CXXFLAGS"="-fopenmp")
 Sys.setenv("PKG_LIBS"="-fopenmp")
 
 # set working directory
-setwd("/cbcb/project2-scratch/jooslee/SL/revision/github/")
+#setwd("/cbcb/project2-scratch/jooslee/SL/revision/github/")
 
 # load TCGA data
 load("data/prob.TCGA.RData")

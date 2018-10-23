@@ -4,7 +4,7 @@ library(data.table)
 library(parallel)
 
 ### set working directory 
-setwd("/cbcb/project2-scratch/jooslee/SL/revision/github8/")
+#setwd("/cbcb/project2-scratch/jooslee/SL/revision/github8/")
 
 ### load the discretized mRNA expression data 
 load("data/TCGA.drug.response/prob.TCGA.drug.response.RData")
